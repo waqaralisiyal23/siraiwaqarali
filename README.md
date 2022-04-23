@@ -1,5 +1,3 @@
-![MasterHead](https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 <h1 align="center">Hi 👋, I'm Waqar Ali Siyal</h1>
 <h3 align="center">Microsoft Learn Student Ambassador ❤️ | Mobile App Developer 📱| Flutter Enthusiast 😍 | Freelancer 💻 | Youtuber ✨</h3>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
