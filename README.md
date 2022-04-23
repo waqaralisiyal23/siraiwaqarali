@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://github.com/siraiwaqarali)
+![MasterHead](https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 <h1 align="center">Hi 👋, I'm Waqar Ali Siyal</h1>
 <h3 align="center">Microsoft Learn Student Ambassador ❤️ | Mobile App Developer 📱| Flutter Enthusiast 😍 | Freelancer 💻 | Youtuber ✨</h3>
