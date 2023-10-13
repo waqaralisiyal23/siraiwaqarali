@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqar Ali Siyal</h1>
-<p align="center">I am Waqar Ali Siyal professional Flutter Developer with 3+ years of experience. I am working as a Head of Mobile Development at Fluid Work. I love to explore latest technologies and everyday I learn new things to expand my skill set. I have worked on different tech stacks and also working on server side using Golang.</p>
+<p align="center">Driven by a passion for innovation and a strong foundation in software engineering, I am an accomplished professional with a keen focus on mobile application development. With 3 years of experience in the field, I have successfully designed, developed, and deployed cutting-edge mobile solutions that have significantly contributed to the technological advancement of various industries.</p>
 <img align="right" alt="Coding" width="400" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siraiwaqarali&label=Profile%20views&color=0e75b6&style=flat" alt="siraiwaqarali" /> </p>
